@@ -1,15 +1,12 @@
-# Analisador de Números em JavaScript
-# Number Analyzer in JavaScript
+# Analisador de Números em JavaScript / Number Analyzer in JavaScript
 
-## Descrição
-## Description
+## Descrição / Description
 
 O **Analisador de Números** é um projeto simples desenvolvido no Curso de JavaScript do Curso em Vídeo com o Professor Gustavo Guanabra, que permite ao usuário inserir números entre 1 e 100 e realizar análises básicas sobre esses números. O aplicativo possui uma interface amigável e é uma ótima maneira de praticar habilidades de programação em JavaScript, manipulação do DOM e validação de entradas.
 
 The **Number Analyzer** is a simple project developed in JavaScript that allows users to input numbers between 1 and 100 and perform basic analyses on those numbers. The application features a user-friendly interface and is a great way to practice programming skills in JavaScript, DOM manipulation, and input validation.
 
-## Funcionalidades
-## Features
+## Funcionalidades / Features
 
 O projeto possui as seguintes funcionalidades:
 
@@ -27,8 +24,7 @@ The project includes the following features:
 4. **Sum of Numbers**: Calculates and displays the sum of all registered values.
 5. **Average of Numbers**: Calculates and displays the average of the registered values.
 
-## Tecnologias Utilizadas
-## Technologies Used
+## Tecnologias Utilizadas / Technologies Used
 
 - HTML
 - CSS
@@ -38,8 +34,7 @@ The project includes the following features:
 - CSS
 - JavaScript
 
-## Como Usar
-## How to Use
+## Como Usar / How to Use
 
 1. Clone o repositório ou faça o download dos arquivos.
 2. Abra o arquivo `index.html` em um navegador web.
@@ -51,8 +46,7 @@ The project includes the following features:
 3. Enter a number between 1 and 100 in the input field and click "Add".
 4. After adding all desired numbers, click "Finish" to see the results of the analyses.
 
-## Exemplo de Uso
-## Example of Use
+## Exemplo de Uso / Example of Use
 
 1. Adicione os números: 10, 20, 30.
 2. Clique em "Finalizar".
@@ -72,20 +66,17 @@ The project includes the following features:
    - Total sum: 60
    - Average: 20
 
-## Contribuição
-## Contribution
+## Contribuição / Contribution
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## Licença
-## License
+## Licença / License
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 This project is licensed under the [MIT License](LICENSE).
 
-## Contato
-## Contact
+## Contato / Contact
 
 Para mais informações, entre em contato:
 - Nome: [Alexandre Germano]
